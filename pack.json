@@ -1,1 +1,8 @@
+{
+  "name": "Ron Mix",
+  "description": "mix to ron",
+  "restart": false,
+  "runsGlobally": true,
+  "color": [255, 215, 0]
+}
 
